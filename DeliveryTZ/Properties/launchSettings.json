@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeliveryTZ": {
+      "commandName": "Project",
+      "commandLineArgs": "\"FileFiltering.csv\"\r\n\"logfile.log\""
+    }
+  }
+}
